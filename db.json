@@ -3,37 +3,37 @@
         {
             "id": 1,
             "name": "Máy tính xách tay",
-            "icon": "../assets/laptop.png"
+            "icon": "laptop.png"
         },
         {
             "id": 2,
             "name": "Điện thoại thông minh",
-            "icon": "../assets/smartphone.png"
+            "icon": "smartphone.png"
         },
         {
             "id": 3,
             "name": "Máy tính bảng",
-            "icon": "../assets/tablet.png"
+            "icon": "tablet.png"
         },
         {
             "id": 4,
             "name": "Tivi",
-            "icon": "../assets/tv.png"
+            "icon": "tv.png"
         },
         {
             "id": 5,
             "name": "Đồng hồ",
-            "icon": "../assets/watch.png"
+            "icon": "watch.png"
         },
         {
             "id": 6,
             "name": "Mắt kính",
-            "icon": "../assets/eyeglasses.png"
+            "icon": "eyeglasses.png"
         },
         {
             "id": 7,
             "name": "Nón bảo hiểm",
-            "icon": "../assets/helmet.png"
+            "icon": "helmet.png"
         }
     ]
 }
