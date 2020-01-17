@@ -1,5 +1,24 @@
-
 {
+    "manufacturers": [
+        {
+            "id": 1,
+            "name": "Vsmart",
+            "country": "Việt Nam",
+            "logo": ""
+        },
+        {
+            "id": 2,
+            "name": "Samsung",
+            "country": "Hàn Quốc",
+            "logo": ""
+        },
+        {
+            "id": 3,
+            "name": "Apple",
+            "country": "Mỹ",
+            "logo": ""
+        }
+    ],
     "categories": [
         {
             "id": 1,
@@ -35,6 +54,92 @@
             "id": 7,
             "name": "Nón bảo hiểm",
             "icon": "https://lh3.googleusercontent.com/chn0X2uMR9jFANHKvuTe5xCmDG1x-lHmI0so45wY8MwCNUiLeib53GI0qRWmBm5nrcr4GUbnCm1KHeLMNQrplg41LnUhnDsFnC6dbVTNHf5gtsTUKDqBoxJ-eSYDBcC8EGZ-htNscMipGsv2dhIWKKZdX3Cn4jXw0FzBEsda2RCorUVPzO5grkvvoxxaWSlb3Dwsmdmmy1CDDrsImnYaTnT2PpdcW0W5kruchFrjBE0_FlyyptsmbU4k1ITPG9TUraUGIhwENHVw4MvmnGz8UMFV_NxRuFDgTRjaCq75ej-C6zlPopyT4jJaGCssZpFi8gMWBHTv1nHRAtkNHXoZaoPJ84BKzKKzhZMwdyiPFqYPheKxJrCuCSPeIBJvQqwxnQ0nl6mFV27UrHLjX_gUUzrnZ4eHgGbpLSopvmhP3xFsC_d5dnWE4ntvTj_IV3y2IvbzScLqKmVZfhPhCk884FxG3Ig-o3YAeIWHSWC70WGNX674lf7uIB4FEbI9BPgJKt4Ew9Xz1ewhzRJualwcDuoAyf4qO-YyO-3E34mhaDwstK-1Ri6XsSoj2i09iD_GBVvhXqNWpTBOsRb7ZSPXHAiyOU1x3aOolFTMIPy0yU3bnpBEQ_kMeIDm9_nxcKD0822uCm7R8PPCxOEONKIUh0K8DXF2KxwYJrZoqDUi5IHGqWScAASwI-lGsvkno-TcNU0AEE7CYRImLJOSV__yvZnSsGfUF1K5F_NG2j8G1fF4CEk=s128-no"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Joy 2+",
+            "price": 2190000,
+            "manufacturer": 1,
+            "categoryId": 2,
+            "images": [
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/16/637042449910283336_vsmart-joy-2-plus-7.JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/16/637042449857567890_vsmart-joy-2-plus-18.JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/16/637042449753078225_vsmart-joy-2-plus-19.JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/16/637042449657907834_vsmart-joy-2-plus-10.JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/16/637042449653928257_vsmart-joy-2-plus-2.JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/16/637042449657827849_vsmart-joy-2-plus-17.JPG"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Galaxy S8",
+            "price": 10990000,
+            "manufacturer": 2,
+            "categoryId": 2,
+            "images": [
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/5/13/636302672769366254_SAMSUNG-GALAXY-S8%20(11).JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/5/13/636302672769210253_SAMSUNG-GALAXY-S8%20(10).JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/5/13/636302672767650243_SAMSUNG-GALAXY-S8%20(7).JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/5/13/636302672762814212_SAMSUNG-GALAXY-S8%20(2).JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/5/13/636302672762658211_SAMSUNG-GALAXY-S8%20(4).JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/5/13/636302672762034207_SAMSUNG-GALAXY-S8%20(3).JPG"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/5/13/636302672761722205_SAMSUNG-GALAXY-S8%20(1).JPG"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "iPhone 6s",
+            "price": 6990000,
+            "manufacturer": 3,
+            "categoryId": 2,
+            "images": [
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/7/5/636348423863875413_iphone-6s-06.jpg"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/7/5/636348423867931465_iphone-6s-01.jpg"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/7/5/636348423868555473_iphone-6s-02.jpg"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/7/5/636348423876355573_iphone-6s-11.jpg"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/7/5/636348423879943619_iphone-6s-15.jpg"
+                },
+                {
+                    "url": "https://cdn.fptshop.com.vn/Uploads/Originals/2017/7/5/636348423876823579_iphone-6s-13.jpg"
+                }
+            ]
         }
     ]
 }
